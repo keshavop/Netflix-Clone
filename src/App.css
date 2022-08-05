@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+}
+
+
+.App{
+  background-color: #111;
+}
+.App-header{
+  color: aliceblue;
+}
