@@ -8,6 +8,7 @@
 
 **~** React, HTML, CSS, API, Firebase
 
+<div>
 <!-- html -->
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"  width="50" height="50">
 <!-- css -->
@@ -22,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"  width="50" height="50">
 <!-- vscode -->
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" >
-
+</div>
 <br>
 
 ## Demo
