@@ -51,7 +51,8 @@ Install node_modules with npm
     
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](./readme-assets/netlix2.png)
+![App Screenshot](./readme-assets/netlix1.png)
 
 
 ## License
