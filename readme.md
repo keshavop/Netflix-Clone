@@ -2,7 +2,6 @@
 
 >### Netlix Clone is web application that mimics the functionality and user interface of the popular streaming service Netflix.
 
-<br>
 
 ## Tech Stack
 
